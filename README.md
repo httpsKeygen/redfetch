@@ -1,1 +1,3 @@
-# redfetch
+# Redfetch
+
+Red config for neofetch
